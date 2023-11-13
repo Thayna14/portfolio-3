@@ -46,7 +46,7 @@ body {
     font-weight: 600;
     color: white;
     text-decoration: none;
-    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.342);
+    text-shadow: 0px 0px 7px rgba(0, 0, 0, 0.26);
 }
 
 
@@ -117,7 +117,7 @@ body {
     /* Alinha o texto justificado */
     text-align: justify;
 
-    text-shadow: 0px 0px 8px rgba(0, 0, 0, 0.342);
+    text-shadow: 0px 0px 7px rgba(0, 0, 0, 0.192);
 }
 
 /* Estilos para elementos com a classe .apresentacao-conteudo-paragrafo */
@@ -131,7 +131,7 @@ body {
     /* Alinha o texto justificado */
     text-align: justify;
 
-    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.342);
+    text-shadow: 0px 0px 8px rgba(0, 0, 0, 0.267);
 }
 
 
@@ -157,7 +157,7 @@ body {
     font-family: 'Krona One', sans-serif;
     font-weight: 400;
     font-size: 24px;
-    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.342);
+    text-shadow: 0px 0px 8px rgba(0, 0, 0, 0.274);
 
 }
 
